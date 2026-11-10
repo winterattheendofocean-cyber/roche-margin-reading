@@ -1,0 +1,18 @@
+{
+  "id": "margin-reading",
+  "name": "页间共读",
+  "version": "1.0.0",
+  "description": "TXT 共读、段落批注与可编辑阅读记忆",
+  "author": "个人插件",
+  "entry": "https://raw.githubusercontent.com/winterattheendofocean-cyber/roche-margin-reading/refs/heads/main/margin-reading.js",
+  "hash": "",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "memory:read",
+    "worldbook:read",
+    "ai:chat",
+    "storage",
+    "ui"
+  ]
+}
